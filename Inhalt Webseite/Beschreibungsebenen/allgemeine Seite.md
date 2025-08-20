@@ -1,2 +1,2 @@
 # Test (-Suffix)
-Lorem ipsum blabla
+Lorem ipsum **blabla**
