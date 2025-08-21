@@ -21,6 +21,6 @@
   * [+plosiv, -sonorant] --> [h] / __X  Ein Verschlusslaut verliert seinen eigentlichen Verschluss und wird zu [h] oder einem anderen Frikativ.
 * *Vowel raising/lowering*
   * /a/ --> /o/  (Raising) ; /u/ --> /o/   (Lowering)
-* *Geminisierung*
+* *Geminierung*
   * /C/ --> /CC/
 * *...*
