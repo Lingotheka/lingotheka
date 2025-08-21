@@ -4,7 +4,7 @@ Kontakt: lingotheka@proton.me
 
 Anschrift: Beethovenstraße 15, 04107 Leipzig 
 
-Silvie Strauß, Erik Gantzkow, Simon Lange, Emily Tröger, Valentin 
+Silvie Strauß, Erik Gantzkow, Simon Lange, Emily Tröger, Valentin Matthies
 
 # Hinweis zur Nutzung
 
