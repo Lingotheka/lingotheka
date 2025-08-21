@@ -7,5 +7,5 @@ Ein **definiter** Referent ist für Sprecher und Hörer eindeutig identifizierba
 
 Mehr dazu:   
 Becker, Laura. 2021. *Articles in the world’s languages*. De Gruyter. https://doi.org/10.1515/9783110724424  
-Ionin, Tania. 2006. This is deﬁnitely speciﬁc: speciﬁcity and deﬁniteness in article systems. *Natural Language Semantics* 14(2): 175-234. https://doi.org/10.1007/s11050-005-5255-9  
+Ionin, Tania. 2006. *This* is deﬁnitely speciﬁc: speciﬁcity and deﬁniteness in article systems. *Natural Language Semantics* 14(2): 175-234. https://doi.org/10.1007/s11050-005-5255-9  
 Lyons, Christopher. 1999. *Deﬁniteness*. Cambridge University Press. https://doi.org/10.1017/cbo9780511605789  
