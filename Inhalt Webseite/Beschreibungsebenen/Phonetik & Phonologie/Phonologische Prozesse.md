@@ -1,1 +1,3 @@
-
+**Phonologische Prozesse** sind Veränderungen der Lautstruktur, die im Sprachgebrauch auftauchen. Mit ihnen kann beschrieben werden, wie sich Laute einander angleichen, verschmelzen, vereinfachen oder gar tilgen, meist mit dem Ziel, die Aussprache zu erleichtern. 
+* Übersicht einiger phonologischer Prozesse:
+Assimilation (Nasal, Stimmhaftigkeit, etc.), Dissimilation, Palatalisierung, Lenisierung, Epenthese, Tilgung, Verlängerung/Kürzung, Affrikatisierung, Debukkalisierung, Vowel raising/lowering, Geminisierung (? nennt man das so im Deutschen? ich find dazu online nichts), ... 
