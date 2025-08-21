@@ -8,9 +8,11 @@ Substantive:
 - Definitheit & Spezifizität: definit, indefinit, spezifisch, non-spezifisch
 - Possessiv
 - Nominales TAM
+
 Adjektive:
 - Komparation: Positiv, Komparativ, Superlativ, Elativ, Exzessiv …
 - Kasus, Numerus, Genus, Belebtheit -> Kongruenz mit Substantiv
+
 Verben:
 - Valenz: avalent, monovalent, bivalent, intransitiv, transitiv …
 - Aktionsart: dynamisch, statisch, telisch, atelisch, durativ, punktuell, semelfaktiv, inchoativ  …                
