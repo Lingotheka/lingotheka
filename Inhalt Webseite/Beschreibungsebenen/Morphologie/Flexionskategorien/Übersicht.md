@@ -1,4 +1,4 @@
-# Flexionskategorien
+## Flexionskategorien
 
 Substantive:
 - Genus/ Klasse: Femininum, Maskulinum, Neutrum, Utrum …
