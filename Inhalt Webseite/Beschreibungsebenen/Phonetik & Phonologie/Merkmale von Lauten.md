@@ -3,7 +3,7 @@ Laute lassen sich anhand präziser Merkmale beschreiben und unterscheiden, beisp
 | Lautgruppe  | Merkmale | IPA-Beispiel |
 | ------------- | ------------- | ------------- |
 | Vokale  | Frei artikuliert, höchste Sonorität  | [a], [i], [u] |
-| Approximanten  | Sehr offen, vokalähnlich | [j], [w] |
+| Approximanten (Gleitlaute, Halbvokale) | Sehr offen, vokalähnlich | [j], [w] |
 | Liquide  | Laterale oder vibrante Konsonanten | [l], [r]  |
 | Nasale  | Bildung durch vollst. Verschluss im Mundraum; durch Senkung des Velums entweicht Luft durch Nase  | 	[m], [n], [ŋ]  |
 | Implosive  | Stimmhafte Plosive mit Einwärts-Luftstrom, oft sonorer als normale Plosive  | [ɓ], [ɗ], [ɠ]  |
@@ -12,6 +12,10 @@ Laute lassen sich anhand präziser Merkmale beschreiben und unterscheiden, beisp
 | Plosive  | Vollständiger Verschluss mit anschließender Aufsprengung | [p], [t], [k]  |
 | Ejektive  | Stimmlos, mit glottalischem Luftstrom, sehr starker Verschluss |  [pʼ], [tʼ], [kʼ]  |
 | Klicks  | Doppelte Verschlussbildung, Luftstrom nach innen |  [ǀ], [ǃ], [ǂ]  |
+
+**Creaky und breathy voice** sind weitere Unterscheidungsarten der Stimmlage. *Creaky* bezieht sich auf die "knarrende" Stimmlage, die auch mit Stimmrissen oder niederfrequenten, unregelmäßigen Stimmbandschwankungen in Verbindung gebracht wird. Im Gegenteil dazu steht *breathy voice*, bei welcher die Stimmlage eher in ein Hauchen übergeht; zugrundeliegend sind gelockerte, offene Stimmbänder.
+
+**Koartikulation** umfasst das Prinzip, bei welchem Laute gemeinsam artikuliert werden, beziehungsweise einander beeinflussen. Verursacher sind hier die Sprechorgane Zunge, Lippen und Kiefer. Anders als bei herkömmlicher Artikulation werden bei der Koartikulation Laute überlappend oder parallel produziert. 
 
 <img width="1024" height="1326" alt="image" src="https://github.com/user-attachments/assets/3dbf94c9-75eb-4db9-a930-d9fa995f9d7b" />
 (By International Phonetic Association - https://www.internationalphoneticassociation.org/IPAcharts/IPA_chart_orig/IPA_charts_E.html, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=92652779)
