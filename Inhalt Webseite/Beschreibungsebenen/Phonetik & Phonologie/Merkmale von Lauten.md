@@ -13,6 +13,8 @@ Laute lassen sich anhand präziser Merkmale beschreiben und unterscheiden, beisp
 | Ejektive  | Stimmlos, mit glottalischem Luftstrom, sehr starker Verschluss |  [pʼ], [tʼ], [kʼ]  |
 | Klicks  | Doppelte Verschlussbildung, Luftstrom nach innen |  [ǀ], [ǃ], [ǂ]  |
 
+Implosive, Ejektive und Clicks sind *nicht pulmonal*, da sie nicht mit ausgeatmeter Luft gebildet werden.
+
 **Creaky und breathy voice** sind weitere Unterscheidungsarten der Stimmlage. *Creaky* bezieht sich auf die "knarrende" Stimmlage, die auch mit Stimmrissen oder niederfrequenten, unregelmäßigen Stimmbandschwankungen in Verbindung gebracht wird. Im Gegenteil dazu steht *breathy voice*, bei welcher die Stimmlage eher in ein Hauchen übergeht; zugrundeliegend sind gelockerte, offene Stimmbänder.
 
 **Koartikulation** umfasst das Prinzip, bei welchem Laute gemeinsam artikuliert werden, beziehungsweise einander beeinflussen. Verursacher sind hier die Sprechorgane Zunge, Lippen und Kiefer. Anders als bei herkömmlicher Artikulation werden bei der Koartikulation Laute überlappend oder parallel produziert. 
