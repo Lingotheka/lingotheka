@@ -19,7 +19,7 @@ Implosive, Ejektive und Clicks sind *nicht pulmonal*, da sie nicht mit ausgeatme
 
 **Koartikulation** umfasst das Prinzip, bei welchem Laute gemeinsam artikuliert werden, beziehungsweise einander beeinflussen. Verursacher sind hier die Sprechorgane Zunge, Lippen und Kiefer. Anders als bei herkömmlicher Artikulation werden bei der Koartikulation Laute überlappend oder parallel produziert. 
 
-**Sonoritätshierarchie**: Vokale sind sonorer als Konsonanten. Sonoranten > Obstruenten, Liquide > Nasale, Frikative > Plosive
+**Sonoritätshierarchie**: Vokale sind sonorer als Konsonanten. Sonorität fallend: Vokale --> Approximanten --> Liquide --> Trills/Vibranten --> Nasale --> Frikative --> Affrikaten --> Plosive
 
 <img width="1024" height="1326" alt="image" src="https://github.com/user-attachments/assets/3dbf94c9-75eb-4db9-a930-d9fa995f9d7b" />
 (By International Phonetic Association - https://www.internationalphoneticassociation.org/IPAcharts/IPA_chart_orig/IPA_charts_E.html, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=92652779)
