@@ -1,0 +1,2 @@
+Eine Wortfamilie bezeichnet die Gesamtheit aller Wörter, die sich von einer gemeinsamen Wurzel herleiten lassen (z.B. "fahr" - Fahrt, fahren, umfahren, einfahren, abfahren, etc... / "schön" - unschön, verschönern, Schönheit, etc...). 
+Der Umfang von Wortfamilien ist sehr variabel. Einige Wortfamilien umfassen bis zu 100 Wörtern, manche nur 3. Dies ist stark abhängig von der morphologischen Komplexität einer Sprache und deren historischen Entwicklung. (Eine Wortfamilie bleibt klein, wenn keiner die Wurzel voll ausschöpft). 
