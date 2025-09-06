@@ -1,1 +1,5 @@
+SPRACHFAMILIEN
 
+INDOGERMANISCH
+Satem vs. Kentum
+...
