@@ -13,7 +13,7 @@ Die wichtigsten Diathesen:
 * Kausativ: Hinzufügen eines Agens zum Ereignis  
   z.B. *Das Schiff versinkt* -> *Der Sturm versenkt das Schiff*  
   *Die Maus malt Blumen* -> *Die Katze lässt die Maus Blumen malen*
-* Antikausativ: Entfernen eines Agens vom Ereignis
+* Antikausativ: Entfernen eines Agens vom Ereignis  
   z.B. *Ich öffne die Tür* -> *Die Tür öffnet sich*
 * Reflexiv und Reziprok: Agens und Patiens haben denselben Referenten, im ersten Fall führt der Agens die Handlung an sich selbst durch, im zweiten Fall ist die Handlung gegenseitig  
   z.B. *Ich sehe euch* -> *Ich sehe mich* (Reflexiv), *Wir sehen einander* (Reziprok)
