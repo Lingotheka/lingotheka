@@ -3,22 +3,20 @@ In anderen Diathesen ändert sich in erster Linie die Zahl der an dem Ereignis b
 
 Die wichtigsten Diathesen:  
 * Aktiv: die Ausgangsdiathese
-* Passiv: der Patiens wird promoviert, der Agens wird demoviert  
+* Passiv: der Patiens wird promoviert, der Agens wird demoviert. Die syntaktische Valenz wird verringert, die semantische Valenz bleibt unverändert.  
   z.B. *Der Hund beißt das Kind* -> *Das Kind wird (vom Hund) gebissen*
-* Antipassiv: der Agens wird promoviert, der Patiens wird demoviert  
+* Antipassiv: der Agens wird promoviert, der Patiens wird demoviert. Die syntaktische Valenz wird verringert, die semantische Valenz bleibt unverändert.  
   z.B. *Der Hund beißt das Kind* -> *Der Hund beißt*  
   *Ich lese das Buch* -> *Ich lese in dem Buch*
-* Applikativ: Promotion einer adverbialen Bestimmung oder eines Adverbialobjekts zum (direkten) Objekt  
+* Applikativ: Promotion einer adverbialen Bestimmung oder eines Adverbialobjekts zum (direkten) Objekt. Die syntaktische und semantische Valenz kann erhöht werden.  
   z.B. *Ich male Blumen auf den Tisch* -> *Ich bemale den Tisch mit Blumen*
-* Kausativ: Hinzufügen eines Agens zum Ereignis  
+* Kausativ: Hinzufügen eines Agens zum Ereignis. Die semantische und syntaktische Valenz wird erhöht.  
   z.B. *Das Schiff versinkt* -> *Der Sturm versenkt das Schiff*  
   *Die Maus malt Blumen* -> *Die Katze lässt die Maus Blumen malen*
-* Antikausativ: Entfernen eines Agens vom Ereignis  
+* Antikausativ: Entfernen eines Agens vom Ereignis. Die semantische und syntaktische Valenz wird verringert.  
   z.B. *Ich öffne die Tür* -> *Die Tür öffnet sich*
-* Reflexiv und Reziprok: Agens und Patiens haben denselben Referenten, im ersten Fall führt der Agens die Handlung an sich selbst durch, im zweiten Fall ist die Handlung gegenseitig  
+* Reflexiv und Reziprok: Agens und Patiens haben denselben Referenten, im ersten Fall führt der Agens die Handlung an sich selbst durch, im zweiten Fall ist die Handlung gegenseitig. Die semantische Valenz wird verringert, die syntaktische Valenz bleibt unverändert.  
   z.B. *Ich sehe euch* -> *Ich sehe mich* (Reflexiv), *Wir sehen einander* (Reziprok)
-
-Bis auf Applikativ und Kausativ reduzieren alle diese Diathesen entweder die semantische oder die syntaktische Valenz oder beide: Passiv und Antipassiv reduzieren die syntaktische, aber nicht die semantische Valenz um ein Kernargument, Antikausativ reduziert sowohl die semantische als auch die syntaktische Valenz, da ein Partizipant/Argument komplett wegfällt und Reflexiv und Reziprok reduzieren die semantische, aber nicht die syntaktische Valenz, da die Slots für Agens und Patiens weiter bestehen, aber von ein und demselben Partizipanten gefüllt werden.
 
 Die Markierung einer Diathese am Verb nennt man *Genus Verbi*. Ein Genus Verbi kann dabei mehrere Diathesen abdecken. Das *Medium* kombiniert zum Beispiel in vielen Sprachen verschiedene valenzreduzierende Diathesen wie Antikausativ, Reflexiv und Reziprok.
 
