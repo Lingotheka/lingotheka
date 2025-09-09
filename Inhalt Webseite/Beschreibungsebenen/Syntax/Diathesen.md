@@ -4,7 +4,7 @@ In anderen Diathesen ändert sich in erster Linie die Zahl der an dem Ereignis b
 Die wichtigsten Diathesen:  
 * Aktiv: die Ausgangsdiathese
 * Passiv: der Patiens wird promoviert, der Agens wird demoviert
-* Antipassiv: der Agens wird promoviert, der Patiens wird demoviert
+* Antipassiv: der Agens wird promoviert, der Patiens wird demoviert  
   z.B. *Ich lese das Buch* -> *Ich lese in dem Buch*
 * Applikativ: Promotion einer adverbialen Bestimmung oder eines Adverbialobjekts zum (direkten) Objekt
 * Kausativ: Hinzufügen eines Agens zum Ereignis
