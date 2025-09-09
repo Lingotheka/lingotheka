@@ -8,7 +8,7 @@ Die wichtigsten Diathesen:
 * Antipassiv: der Agens wird promoviert, der Patiens wird demoviert  
   z.B. *Der Hund beißt das Kind* -> *Der Hund beißt*  
   *Ich lese das Buch* -> *Ich lese in dem Buch*
-* Applikativ: Promotion einer adverbialen Bestimmung oder eines Adverbialobjekts zum (direkten) Objekt
+* Applikativ: Promotion einer adverbialen Bestimmung oder eines Adverbialobjekts zum (direkten) Objekt  
   z.B. *Ich male Blumen auf den Tisch* -> *Ich bemale den Tisch mit Blumen*
 * Kausativ: Hinzufügen eines Agens zum Ereignis  
   z.B. *Das Schiff versinkt* -> *Der Sturm versenkt das Schiff*  
