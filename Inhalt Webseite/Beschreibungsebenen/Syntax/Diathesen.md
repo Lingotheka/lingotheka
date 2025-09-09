@@ -18,6 +18,8 @@ Die wichtigsten Diathesen:
 * Reflexiv und Reziprok: Agens und Patiens haben denselben Referenten, im ersten Fall führt der Agens die Handlung an sich selbst durch, im zweiten Fall ist die Handlung gegenseitig  
   z.B. *Ich sehe euch* -> *Ich sehe mich* (Reflexiv), *Wir sehen einander* (Reziprok)
 
+Bis auf Applikativ und Kausativ reduzieren alle diese Diathesen entweder die semantische oder die syntaktische Valenz oder beide: Passiv und Antipassiv reduzieren die syntaktische, aber nicht die semantische Valenz um ein Kernargument, Antikausativ reduziert sowohl die semantische als auch die syntaktische Valenz, da ein Partizipant/Argument komplett wegfällt und Reflexiv und Reziprok reduzieren die semantische, aber nicht die syntaktische Valenz, da die Slots für Agens und Patiens weiter bestehen, aber von ein und demselben Partizipanten gefüllt werden.
+
 Die Markierung einer Diathese am Verb nennt man *Genus Verbi*. Ein Genus Verbi kann dabei mehrere Diathesen abdecken. Das *Medium* kombiniert zum Beispiel in vielen Sprachen verschiedene valenzreduzierende Diathesen wie Antikausativ, Reflexiv und Reziprok.
 
 Mehr dazu:  
