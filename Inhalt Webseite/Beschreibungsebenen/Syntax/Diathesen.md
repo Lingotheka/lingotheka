@@ -3,7 +3,7 @@ In anderen Diathesen ändert sich in erster Linie die Zahl der an dem Ereignis b
 
 Die wichtigsten Diathesen:  
 * Aktiv: die Ausgangsdiathese
-* Passiv: der Patiens wird promoviert, der Agens wird demoviert
+* Passiv: der Patiens wird promoviert, der Agens wird demoviert  
   z.B. *Der Hund beißt das Kind* -> *Das Kind wird (vom Hund) gebissen*
 * Antipassiv: der Agens wird promoviert, der Patiens wird demoviert  
   z.B. *Der Hund beißt das Kind* -> *Der Hund beißt*  
