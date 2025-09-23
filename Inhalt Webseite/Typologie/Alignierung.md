@@ -1,14 +1,14 @@
-Der Begriff *Alignierung* bezieht sich darauf, welche Argumente in welchen syntaktischen Kontexten eine Sprache gleich und welche unterschiedlich behandelt. "Behandeln" ist dabei gleichbedeutend mit den Kodierungseigenschaften der entsprechenden syntaktischen Funktionen, also Kasus (oder *Beflaggung**), Indexierung im Verb und/oder Wortstellung.  
+Der Begriff *Alignierung* bezieht sich darauf, welche Argumente in welchen syntaktischen Kontexten eine Sprache gleich und welche unterschiedlich behandelt. "Behandeln" ist dabei gleichbedeutend mit den Kodierungseigenschaften der entsprechenden syntaktischen Funktionen, also Kasus (oder *Beflaggung*), Indexierung im Verb und/oder Wortstellung.  
 Um diese Muster sprachübergreifend vergleichen zu können, werden fünf syntaktische Kontexte definiert:  
-- **S** ist das einzige Argument eines monovalenten Verbs
+- **S** ist das einzige Argument eines monovalenten Verbs  
   z.B. ***Findus** schläft*
 - **A** ist der Agens einer transitiven Konstruktion  
   z.B. ***Findus** isst Fleischklößchen*
-- **P** (oder **O**) ist der Patiens einer transitiven Konstruktion
+- **P** (oder **O**) ist der Patiens einer transitiven Konstruktion  
   z.B. *Findus isst **Fleischklößchen***
-- **T** ist das Thema einer ditransitiven Konstruktion
+- **T** ist das Thema einer ditransitiven Konstruktion  
   z.B. *Pettersson gibt Findus **eine Zimtwecke***
-- **R** (oder **G**) ist der Rezipient einer ditransitiven Konstruktion
+- **R** (oder **G**) ist der Rezipient einer ditransitiven Konstruktion  
   z.B. *Pettersson gibt **Findus** eine Zimtwecke*
 
   In **syntaktischen Alignierungssystemen** werden meistens mehrere dieser Kontexte gleich behandelt. Wenn A wie S behandelt wird, ist die Alignierung **akkusativisch**. Wenn P wie S behandelt wird, ist die Alignierung **ergativisch**. Wenn S, A und P alle unterschiedlich behandelt werden, ist die Alignierung **tripartit**.
