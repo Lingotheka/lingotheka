@@ -18,3 +18,11 @@ Manche Alignierungssysteme lassen sich nicht in die bisher genannten Kategorien 
 Eine Sprache hat nicht zwangsläufig in allen Bereichen dieselbe Alignierung: sie kann beispielsweise ergativische Kasusmarkierung aber akkusativische Indexierung haben, oder in Hauptsätzen akkusativisch oder ergativisch und in nominalisierten Nebensätzen tripartit sein.  
 Die Alignierung kann auch je nach Tempus oder Aspekt unterschiedlich sein: manche Sprachen sind im Präsens oder Imperfektiv akkusativisch und in der Vergangenheit oder dem Perfektiv ergativisch. Dieses Muster nennt man **gespaltene Alignierung** (oder auch *gespaltene Ergativität*).  
 In anderen Sprachen erhalten nicht alle Argumente im selben syntaktischen Kontext auch dieselbe Markierung, sondern werden abhängig von Eigeschaften wie Belebtheit, Definitheit, Person oder Topikalität unterschiedliche behandelt. In diesem Fall spricht man von **differentieller Argumentmarkierung**. Bei differentieller Objektmarkierung werden P-Argumente beispielsweise nur mit dem Akkusativ markiert oder im Verb indexiert, wenn sie hoch auf der Belebtheits-, Definitheits- oder Personenhierachie stehen oder topikal sind, sonst bleiben sie unmarkiert oder erhalten eine andere Markierung.
+
+Mehr dazu:  
+Dixon, R. M. W. 1979. “Ergativity.” *Language* 55(1): 59-138.  
+Haspelmath, Martin. 2011. “On S, A, P, T, and R as comparative concepts for alignment typology.” *Linguistic Typology* 15: 535-567.  
+Jacques, Guillaume / Antonov, Anton. 2014. “Direct/Inverse systems.” *Language and Linguistics Compass* 8(7): 301-318.
+Wichmann, Søren. 2008. “The study of semantic alignment: retrospect and state of the art.” In Donohue, Mark / Wichmann, Søren (eds.): *The Typology of Semantic Alignment.* Oxford: Oxford University Press. 3-23.  
+Witzlack-Makarevich, Alena / Seržant, Ilja A. 2018. “Differential argument marking: Patterns of variation.” In Witzlack-Makarevich, Alena / Seržant, Ilja A. (eds.): *Diachrony of differential argument marking.* Berlin: Language Science Press. 1-40.  
+Zúñiga, Fernando / Kittilä, Seppo. 2019. *Grammatical Voice.* Cambridge: Cambridge University Press. (Kapitel 4: "In Search of Balance: Agent and Patient Voices")
