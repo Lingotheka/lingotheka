@@ -7,7 +7,7 @@ Syntaktische Funktionen sind Klassen von Konstituenten, die sich durch bestimmte
 Syntaktische Funktionen lassen sich unterteilen in **Argumente** oder *Aktanten* und **Angaben** oder *Adjunkte*, wobei die Unterscheidung nicht immer trennscharf ist. Während Angaben unabhängig vom Prädikat des Satzes und immer optional sind, füllen Argumente die Leerstellen in der Valenz des Verbs und können nur auftreten, wenn sie vom Prädikat des Satzes gefordert werden: ein direktes Objekt wie *den Hund* beispielsweise kann nicht einfach beliebig zu jedem Satz hinzugefügt werden, anders als eine adverbiale Bestimmung wie *am Dienstag*. Eine Grauzone besteht des öfteren zwischen Angaben und optionalen Argumenten  
   
 Nicht alle Sprachen haben dasselbe Inventar von syntaktischen Funktionen, die folgenden sind aber typisch:
-* Subjekt
+* Subjekt: wird unterschiedlich verstanden, als obligatorische syntaktische Funktion, als priviligerte syntaktische Funktion, als S, als S + A ...
 * Objekt (direkt vs. indirekt, primär vs. sekundär, Adverbial-)
 * Prädikatsnomen
 * adverbiale Bestimmung
