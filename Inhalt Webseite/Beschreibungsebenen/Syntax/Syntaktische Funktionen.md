@@ -35,7 +35,6 @@ Nicht alle Sprachen haben dasselbe Inventar von syntaktischen Funktionen, die fo
   *das Haus **am Meer***  
   *der Mann **mit der Brille***
 
-
-  **Mehr dazu:**
-    * Keenan, Edward L. 1976. “Towards a universal definition of ‘subject’.” In Li, Charles N. (ed.): *Subject and Topic.* New York: Academic Press. 303-334.
-  * Onishi, Masayuki. 2001. “Non-canonically marked subjects and objects: Parameters and properties.” In Aikhenvald, Alexandra / Dixon, R. M. W. / Onishi, Masayuki (eds.): *Non-canonical Marking of Subjects and Objects.* Amsterdam/Philadelphia: John Benjamins. 1-51.
+  Mehr dazu:  
+  Keenan, Edward L. 1976. “Towards a universal definition of ‘subject’.” In Li, Charles N. (ed.): *Subject and Topic.* New York: Academic Press. 303-334.
+  Onishi, Masayuki. 2001. “Non-canonically marked subjects and objects: Parameters and properties.” In Aikhenvald, Alexandra / Dixon, R. M. W. / Onishi, Masayuki (eds.): *Non-canonical Marking of Subjects and Objects.* Amsterdam/Philadelphia: John Benjamins. 1-51.
