@@ -10,7 +10,7 @@ Deutsche Orthografie	- Beispiel	- IPA
 /b/	- Baum -	[b]  
 /t/	- Tante -	[tʰ] [t]  
 /d/	- Dose	- [d]  
-/k/	- Katze -	[kʰ] [k]  
+/k/ /ch/	- Katze -	[kʰ] [k]  
 /g/ -	Gans	- [g]  
 /pf/	- Pferd -	[pf]  
 /z/ /tz/	- Zahl -	[ʦ]  
