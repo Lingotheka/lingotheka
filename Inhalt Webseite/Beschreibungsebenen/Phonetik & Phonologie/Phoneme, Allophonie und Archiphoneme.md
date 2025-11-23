@@ -1,5 +1,6 @@
 Phoneme, Allophone und Archiphoneme  
 Sprachen bestehen aus Lauten, soviel ist wohl klar – zumindest orale Sprachen. Jede Sprache und jeder Dialekt dieser Welt charakterisiert sich durch eine Gesamtheit an diesen Lauten. Das Wort „Dorf“ bedeutet etwas anderes als „Torf“. Diese verschiedenen Laute unterschieden also die Bedeutung eines Wortes. Diese Laute nennen wir Phoneme – sie sind die Laute aus denen wir unsere Wörter bilden. Jede Sprache dieser Welt besitzt eine bestimmte Anzahl an Phonemen – welche genau und wie groß diese Anzahl ist, variiert allerdings von Sprache zu Sprache und von Dialekt zu Dialekt. Grundsätzlich gibt es Vokal-Phoneme und Konsonanten-Phoneme. Zudem gibt es auch suprasegmentale Phoneme, z.B. die Betonung: auch Betonung unterschiedet Worte: „umfahren“ ist etwas anderes als „umfahren“. Habe ich die Oma umgefahren oder habe ich sie umfahren? Kurz gesagt: Als Phonem bezeichnet man die kleinste bedeutungsunterscheidende Einheit.
+  
 Folgende Konsonanten-Phoneme besitzt die deutsche Sprache:  
 Deutsche - Orthografie	- Beispiel	IPA  
 /m/ -	Maus -	[m]  
