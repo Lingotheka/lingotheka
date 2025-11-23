@@ -66,7 +66,7 @@ Stimmhafte Konsonanten werden vor Stimmlosen oft selbst stimmlos und andersherum
 Palatalisierung (regressiv oder progressiv)
 Vor oder nach Vorderzungenvokalen wird der Ort der Artikulation koronaler und dorsaler Konsonanten häufig nach vorne gezogen. Diese Assimilation kennen wir bereits vom Deutschen /ch/.
 Regressive Assimilierung des Artikulationsortes nasaler Konsonanten:
-Wenn nasale Konsonanten vor anderen Konsonanten stehen, werden diese in ihrem Artikulationsort oft an den des folgenden Konsonanten angepasst. Besonders vor Plosiven geschieht dies extrem häufig. Deshalb wird in einigen Deutschen Mundarten „Senf“ als „Semf“ ausgesprochen. Deutsch ist hierbei tatsächlich die Ausnahme, die die Regel bestimmt, indem es zwischen Nasalen und Plosiven einen heterogenen Artikulationsort erlaubt, z.B. im Wort „Amt“.
+Wenn nasale Konsonanten vor anderen Konsonanten stehen, werden diese in ihrem Artikulationsort oft an den des folgenden Konsonanten angepasst. Besonders vor Plosiven geschieht dies extrem häufig. Deshalb wird in einigen Deutschen Mundarten „Senf“ als „Semf“ ausgesprochen. Deutsch ist hierbei tatsächlich die Ausnahme, die die Regel bestätigt, indem es zwischen Nasalen und Plosiven einen heterogenen Artikulationsort erlaubt, z.B. im Wort „Amt“.
 Unter dem Thema „Phonologische Prozesse“ werden wir auf Assimilation noch einmal ganz genau eingehen, dies hier ist eher eine kleine Auswahl. Falls du dich also dafür interesserst, guck gerne vorbei.
 
 Lektüre: Hall 2002 (Phonologie)
