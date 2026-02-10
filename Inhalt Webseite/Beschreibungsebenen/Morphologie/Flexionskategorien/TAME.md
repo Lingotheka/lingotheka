@@ -13,4 +13,6 @@ Aspekt wird häufig gemeinsam mit Tempus ausgedrückt, wie z.B. die Unterscheidu
 
 Mehr dazu:  
 Aikhenvald, Alexandra Y. 2004 *Evidentiality.* Oxford: Oxford University Press.  
-Comrie, Bernard. 1976. *Aspect: An Introduction to the Study of Verbal Aspect and Related Problems*. Cambridge: Cambridge University Press.
+Comrie, Bernard. 1976. *Aspect: An Introduction to the Study of Verbal Aspect and Related Problems*. Cambridge: Cambridge University Press.  
+
+~ Silvie
