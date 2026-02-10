@@ -1,4 +1,4 @@
-Der Begriff *Alignierung* bezieht sich darauf, welche Argumente in welchen syntaktischen Kontexten eine Sprache gleich und welche unterschiedlich behandelt. "Behandeln" bezieht sich dabei auf die Kodierungseigenschaften der syntaktischen Funktionen, also Kasus (oder *Beflaggung*), Indexierung im Verb und/oder Wortstellung.  
+Der Begriff *Alignierung* bezieht sich darauf, welche Argumente in welchen syntaktischen Kontexten eine Sprache gleich und welche unterschiedlich behandelt. "Behandeln" bezieht sich dabei normalerweise auf die Kodierungseigenschaften der syntaktischen Funktionen, also Kasus (oder *Beflaggung*), Indexierung im Verb und/oder Wortstellung.  
 Um diese Muster sprachübergreifend vergleichen zu können, werden fünf syntaktische Kontexte definiert:  
 - **S** ist das einzige Argument eines monovalenten Verbs  
   z.B. ***Findus** schläft*
