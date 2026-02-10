@@ -25,4 +25,6 @@ Die Markierung einer Diathese am Verb nennt man *Genus Verbi*. Ein Genus Verbi k
 Mehr dazu:  
 Haspelmath, Martin. 2016. Universals of causative and anticausative verb formation and the spontaneity scale. *Lingua Posnaniensis* 58(2). 33-63.  
 Inglese, Guglielmo. 2022. How do middle voice markers and valency reducing constructions interact? Typological tendencies and diachronic considerations. *Folia Linguistica* 56(2). 239–271.  
-Zúñiga, Fernando / Kittilä, Seppo. 2019. *Grammatical Voice.* Cambridge: Cambridge University Press.
+Zúñiga, Fernando / Kittilä, Seppo. 2019. *Grammatical Voice.* Cambridge: Cambridge University Press.  
+
+~ Silvie
